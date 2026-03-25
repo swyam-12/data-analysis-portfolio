@@ -1,0 +1,8 @@
+PatientID,Age,Gender,TreatmentCost,Outcome
+1,25,M,20000,Recovered
+2,40,F,50000,Recovered
+3,60,M,70000,Not Recovered
+4,35,F,30000,Recovered
+5,50,M,45000,Recovered
+6,30,F,25000,Not Recovered
+7,45,M,60000,Recovered
