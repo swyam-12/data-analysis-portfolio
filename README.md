@@ -30,5 +30,13 @@ Analyzed stock trends and price patterns.
 ### 5. E-commerce Analytics
 Analyzed customer purchases and revenue.
 
+## How to Run
+1. Install requirements:
+pip install -r requirements.txt
+
+2. Run any project:
+cd project1_sales_analysis
+python analysis.py
+
 ## Conclusion
 This portfolio demonstrates end-to-end data analysis including visualization and insights generation.
