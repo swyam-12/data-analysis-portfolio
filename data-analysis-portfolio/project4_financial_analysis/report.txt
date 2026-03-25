@@ -1,0 +1,26 @@
+PROJECT 4: FINANCIAL ANALYSIS REPORT
+------------------------------------
+
+1. Dataset Overview:
+The dataset contains stock price data over multiple days.
+
+2. Analysis Performed:
+- Average stock price analysis
+- Stock trend analysis
+- Multi-stock comparison
+
+3. Key Findings:
+- Best Performing Stock: (check terminal)
+
+4. Visualizations Created:
+- Average Price Bar Chart
+- Stock A Trend Line Chart
+- Multi-stock Trend Line Chart
+
+5. Insights:
+- Some stocks perform better over time
+- Price trends show growth patterns
+- Comparative analysis helps in decision-making
+
+6. Conclusion:
+The analysis helps understand stock performance and trends.
